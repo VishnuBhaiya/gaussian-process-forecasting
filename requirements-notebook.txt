@@ -1,0 +1,6 @@
+-r requirements.txt
+statsmodels>=0.14,<1
+matplotlib>=3.8,<4
+ipython
+jupyterlab
+nbformat
