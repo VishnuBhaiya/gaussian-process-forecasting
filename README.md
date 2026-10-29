@@ -29,4 +29,4 @@ The [historical evidence archive](evidence/frozen-study.zip) preserves the origi
 
 Exact GPs have cubic factorisation cost; findings concern this model, protocol and data. Ten real-data outer blocks do not establish broad forecasting superiority. See [validation](docs/VALIDATION.md) for the release checks.
 
-Author: Vishnu Bhaiya. Developed for advanced data analytics coursework. NumPy/SciPy implement the model; scikit-learn is an independent correctness reference.
+Author: Vishnu Bhaiya. NumPy/SciPy implement the model; scikit-learn is an independent correctness reference.
